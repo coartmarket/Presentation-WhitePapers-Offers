@@ -1,2 +1,2 @@
 # whitepaper
-COART whitepaper
+CoArt whitepaper
